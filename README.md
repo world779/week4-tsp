@@ -1,3 +1,23 @@
+## My Solution (solver_1.py)
+
+solver_greedy.pyを2-opt法で改善しました。
+
+アルゴリズムの理解や実装に時間が掛ってしまい、他のアルゴリズムをあまり試すことができませんでした...
+もっと様々な方法を試してみたいです。
+
+
+
+| Challenge    | N (= the number of cities) | Input file        | Score      |
+| ------------ | -------------------------: | ----------------- | ---------: |
+| Challenge 0  |                          5 | input_yours_0.csv |   3,418.10 |
+| Challenge 1  |                          8 | input_yours_1.csv |   3,832.29 |
+| Challenge 2  |                         16 | input_yours_2.csv |   4,994.89 |
+| Challenge 3  |                         64 | input_yours_3.csv |   8,970.05 |
+| Challenge 4  |                        128 | input_yours_4.csv |  11,489.79 |
+| Challenge 5  |                        512 | input_yours_5.csv |  21,363.60 |
+| Challenge 6  |                       2048 | input_yours_6.csv |  42,712.37 |
+
+## Original
 Build@Mercari 2020 Week4 - Travelling Salesman PRoblem Challenges.
 
 This is forked from [https://github.com/hayatoito/google-step-tsp-2016](https://github.com/hayatoito/google-step-tsp-2016).
